@@ -31,7 +31,7 @@ public class studentgradetracker {
 
             System.out.print("Enter Marks (0 - 100) [Integer or Decimal]: ");
 
-            // ---- This line allows BOTH integer & decimal ----
+            //  This line allows BOTH integer & decimal 
             double score = sc.nextDouble();
             sc.nextLine();
 
@@ -69,3 +69,4 @@ public class studentgradetracker {
         System.out.println("\n===== END =====");
     }
 }
+
